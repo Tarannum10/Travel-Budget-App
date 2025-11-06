@@ -1,12 +1,28 @@
-# React + Vite
+# 🧳 Travel Budget App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive travel budget management application built with React and Vite.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 💰 Budget planning for trips
+- 🗺️ Destination management  
+- 💵 Expense tracking
+- 📊 Budget analysis and reports
+- 📱 Responsive design
+- 🎨 Modern UI with Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React 18, Vite
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Routing:** React Router DOM
+- **Notifications:** Sonner
+- **Build Tool:** Vite
+
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/travel-budget-app.git
+   cd travel-budget-app
