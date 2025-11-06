@@ -9,7 +9,7 @@ A sleek, client-side web application to help travelers plan their trip budget an
 
 ## 🚀 Live Demo
 
-👉 **[Try the Live App Here!](https://your-username-travel-budget-app.netlify.app)** 👈
+👉 **[Try the Live App Here!](https://travel-budget-app.netlify.app/)** 👈
 
 *(Replace the link above with your actual Netlify deployment URL)*
 
